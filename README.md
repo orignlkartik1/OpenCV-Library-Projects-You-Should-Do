@@ -4,7 +4,7 @@ A curated collection of OpenCV projects to help you learn computer vision from b
 
 ---
 
-## 📂 Project Categories
+## Projects
 
 ### Beginner Projects
 - Reading and displaying images
